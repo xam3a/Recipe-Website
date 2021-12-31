@@ -1,0 +1,25 @@
+.recipe{
+  width: 30%;
+  float: inline-end;
+  background-color: chocolate;
+}
+.hamburger{
+  width:350px ;
+  height: 350px;
+  float: inline-start;
+  margin-bottom: 0px;
+}
+ol{
+  float: left;
+  list-style-type: square;
+}
+.ingred{
+  width: 300px;
+  height: 300px;
+  float: inline-end;
+  margin-left: 200px;
+}
+.recipe2{
+  width: 30%;
+  background-color: chocolate;
+}
